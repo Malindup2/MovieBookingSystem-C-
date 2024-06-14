@@ -1,0 +1,3 @@
+# Movie Booking System
+
+Welcome to the Movie Booking System! This project is a comprehensive implementation of a movie booking platform, showcasing key Object-Oriented Programming principles such as polymorphism, inheritance, abstraction, and encapsulation. The system is designed to manage users, movies, bookings, and payments efficiently. It includes several C++ header and source files for the relevant classes, demonstrating a modular approach to software design. The provided UML class diagram offers a visual representation of the system architecture. Dive into the code to explore how these OOP principles are applied to create a robust and scalable movie booking system.
